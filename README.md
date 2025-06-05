@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WIZZXIX 
-- 👀 I’m interested in ...Machine learning and web development
+- 👀 I’m interested in ...Machine learning, web development and data analysis
 - 🌱 I’m currently learning ...Javascript and advanced python
 - 💞️ I’m looking to collaborate on ...ML projects 
 - 📫 How to reach me ...Gmail- suchitmanthen@gmail.com, ig- manthen_suchit
